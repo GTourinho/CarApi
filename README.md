@@ -19,3 +19,7 @@ Após isso, você pode iniciar a aplicação com comando abaixo na pasta raíz d
 Alternativamente, você pode construir o arquivo jar com o comando <code>./mvnw clean package</code> e então rodar o arquivo jar com:
 
 <code>java -jar target/"NomeDoJarGerado".jar</code>
+
+# Uso
+
+O uso da API se dá através da porta 8080
